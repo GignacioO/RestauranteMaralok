@@ -4,5 +4,13 @@
     "nombre": "Donde va este plato?",
     "precio": 9999,
     "descripcion": ""
+  },
+  {
+    "id": "1770255718163",
+    "nombre": "ENTRADA 1",
+    "precio": 666,
+    "descripcion": "",
+    "categoria": "Entradas",
+    "subcategoria": ""
   }
 ]
